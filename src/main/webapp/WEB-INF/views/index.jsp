@@ -9,6 +9,6 @@
     <h1>${msg}</h1>
     <h1>Have a nice day.</h1>
     <h2>오늘은 <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /> 이에요. </h2>
-    <h3>Version: 1.3</h3>
+    <h3>Version: 1.4</h3>
 </body>
 </html>
