@@ -1,8 +1,9 @@
 <%@ page isELIgnored="false" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
+<meta charset="UTF-8">
 <body>
-    <h2>Hello, JunyHarang!!</h2>
+    <h2>Hello, JunyHarang!! 👋</h2>
     <hr>
     <h2>It's working on Tomcat server</h2>
     <hr>
